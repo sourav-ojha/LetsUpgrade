@@ -1,3 +1,5 @@
+{/* CSS is located in App.css */}
+
 import React from "react";
 
 const Assignment1 = () => {
